@@ -147,7 +147,7 @@ under the License.
       <dependency>
         <groupId>org.yaml</groupId>
         <artifactId>snakeyaml</artifactId>
-        <version>1.12</version>
+        <version>1.32</version>
       </dependency>
   </dependencies>
   <build>
